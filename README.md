@@ -2,7 +2,7 @@
 https://nodeschool.io/abuja/ - Resources used during session
 
 ## open dedicated devtools for node
-Enter in your address bar [chrome://inspect](chrome://inspect)
+Enter in your address bar **[chrome://inspect](chrome://inspect)**
 
 ## start node app in debug mode
 ```bash
